@@ -5,4 +5,5 @@ I would like to use a remote repository when I want to share its development wit
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 I want to pull changes manually cus I dont't want to get checked out to a new commit before a finished working on that commit as it can be annoying if your current working files changes automatically
 
-
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks are basically clones on githubs server branch is a type of clone made on the local machine used when working on a new feature or something.
