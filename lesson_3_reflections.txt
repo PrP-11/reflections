@@ -7,3 +7,8 @@ I want to pull changes manually cus I dont't want to get checked out to a new co
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 forks are basically clones on githubs server branch is a type of clone made on the local machine used when working on a new feature or something.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+so that we can compare what changes I have made from the parent branch
+
+
